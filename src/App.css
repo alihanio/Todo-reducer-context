@@ -1,0 +1,14 @@
+.liChecked{
+    text-decoration: line-through;
+    text-decoration-color: brown;
+}
+.none{
+    visibility: hidden;
+}
+.dark{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./assets/images/dark-img.jpg);
+    background-size: cover;
+}
+
