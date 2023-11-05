@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo-reducer-context/static/css/main.9213e366.css",
+    "main.js": "/Todo-reducer-context/static/js/main.fd067329.js",
+    "static/media/dark-img.jpg": "/Todo-reducer-context/static/media/dark-img.070bcaed7cb59abc7edc.jpg",
+    "index.html": "/Todo-reducer-context/index.html",
+    "main.9213e366.css.map": "/Todo-reducer-context/static/css/main.9213e366.css.map",
+    "main.fd067329.js.map": "/Todo-reducer-context/static/js/main.fd067329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9213e366.css",
+    "static/js/main.fd067329.js"
+  ]
+}
